@@ -16,6 +16,7 @@ public class ParametersInTestng {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Neetu\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get(URL);
+		System.out.println("Connected to URL");
 	
 	}
 }
