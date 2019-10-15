@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8123" started-at="2019-09-21T19:05:44 IST" finished-at="2019-09-21T19:05:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8123" started-at="2019-09-21T19:05:44 IST" finished-at="2019-09-21T19:05:52 IST">
+      <class name="qaclickacademy.ParametersInTestng">
+        <test-method status="PASS" signature="testParameters(java.lang.String)[pri:0, instance:qaclickacademy.ParametersInTestng@1f554b06]" name="testParameters" duration-ms="8070" started-at="2019-09-21T19:05:44 IST" finished-at="2019-09-21T19:05:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParameters -->
+      </class> <!-- qaclickacademy.ParametersInTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
